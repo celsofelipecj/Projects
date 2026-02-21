@@ -1,5 +1,6 @@
 Hospital Financial Performance Dashboard
-📊 Overview
+📊 Overview (healthcare_performance_analytics)
+
 This project analyzes hospital encounter data to monitor financial health. It identifies which medical procedures are profitable and how well insurance providers (Payers) cover hospital costs.
 
 🛠️ Tech Stack
