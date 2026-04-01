@@ -1,3 +1,5 @@
+<img width="1398" height="769" alt="image" src="https://github.com/user-attachments/assets/2a07d207-5f88-4b18-b941-79c0245e8547" />
+
 📊 Personal Finance Tracker & Expense Analytics
 This project is a Business Intelligence (BI) tool designed for personal financial management. The core objective is to transform a standard expense spreadsheet into a strategic dashboard that identifies financial bottlenecks and maximizes savings capacity.
 
